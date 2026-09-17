@@ -1,0 +1,6 @@
+{
+  "name": "SAGVORA",
+  "description": "Official company app for SAGVORA — AI & Technology, Built for What's Next. Explore AI solutions, creative media, apps, and submit project inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
